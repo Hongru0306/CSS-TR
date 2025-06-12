@@ -1,0 +1,24 @@
+
+# path: /CV/xhr/xhr_dataset/SODA/  # dataset root dir
+train: /dataset/SODA/split/train.txt  # train images (relative to 'path') 118287 images
+val: /dataset/SODA/split/val.txt  # val images (relative to 'path') 5000 images
+test: /dataset/SODA/split/test.txt  # val images (relative to 'path') 5000 images
+# test: test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+names:
+  0: person
+  1: vest
+  2: helmet
+  3: board
+  4: wood
+  5: rebar
+  6: brick
+  7: scaffold
+  8: handcart
+  9: cutter
+  10: ebox
+  11: hopper
+  12: hook
+  13: fence
+  14: slogan
