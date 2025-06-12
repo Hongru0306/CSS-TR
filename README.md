@@ -1,5 +1,5 @@
 # Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method
-This is the official implementation of the paper "Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method"
+This is the implementation of the paper "Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method"
 
 <figure style="text-align: center;">
   <img src="./configs/framework.jpg" alt="img" style="width: 80%; height: auto; max-width: 100%;">
