@@ -1,25 +1,27 @@
-# Our-paper
-This is the official implementation of the paper "CCS-TR: Automated Complex Construction Scenes Detection via a Novel Lightweight Transformer-based method"
+# Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method
+This is the official implementation of the paper "Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method"
 
+# Installation
+This code is based on [ultralytics](https://github.com/ultralytics/ultralytics). Please install the required dependencies, and you can also refer to their preparation tutorials as a reference.
 
 ## Modules
-Relevant improved modules implementation are in `./model.py`.
+Relevant improved modules implementation are in `./modules.py`.
 
 
-## Data
+## Data prepation
+Some data prepation scripts can be found in `utils/data_process`
 The data we used are SODA and VisDrone2019 datasets (public datasets), which can also be acquired from this [google_drive](./)
 
 
 ## Train
 ```
 pip install -r requirements.txt
-python main.py --batch 16 --epoch 400
+python train.py
 ```
 
 ## Inference/Val
 ```
-python val.py --checkpoint "your trained weights"
-python inference.py --checkpoint "your trained weights"
+python val.py
 ```
 
 ## Note
