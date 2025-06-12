@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python train.py
 ```
 
-## Inference/Val
+## Val
 ```
 python val.py
 ```
