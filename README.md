@@ -1,6 +1,12 @@
 # Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method
 This is the official implementation of the paper "Automated Detection of Complex Construction Scenes Using a Lightweight Transformer-based Method"
 
+<figure style="text-align: center;">
+  <img src="./configs/framework.jpg" alt="img" style="width: 80%; height: auto; max-width: 100%;">
+  <figcaption>Overall view of the Complex Construction Scenes Transformer (CSS-TR)</figcaption>
+</figure>
+
+
 # Installation
 This code is based on [ultralytics](https://github.com/ultralytics/ultralytics). Please install the required dependencies, and you can also refer to their preparation tutorials as a reference.
 
