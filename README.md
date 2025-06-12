@@ -31,4 +31,5 @@ python val.py
 ```
 
 ## Note
-Relevent source will be released after acceptance.
+ALL relevent source will be released after acceptance.  
+If you have any questions, please feel free to contact me at 'hongru_xiao@tongji.edu.cn'.
