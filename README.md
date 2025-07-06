@@ -15,9 +15,9 @@ Relevant improved modules implementation are in `./modules.py`.
 
 
 ## Data prepation
-Some data prepation scripts can be found in `utils/data_process`
-The data we used are SODA and VisDrone2019 datasets (public datasets).   
-Relevant weights of the proposed model can be acquired from this [google_drive](https://drive.google.com/drive/folders/1Qq_Ks48a_tCyX_gPF9LKJ-SXY-aVdF7K?usp=drive_link)
+Some data prepation scripts can be found in `utils/data_process`.  
+The data we used are SODA and VisDrone2019 datasets (public datasets).    
+Relevant weights of the proposed model can be acquired from this [google_drive](https://drive.google.com/drive/folders/1Qq_Ks48a_tCyX_gPF9LKJ-SXY-aVdF7K?usp=drive_link).  
 
 
 ## Train
