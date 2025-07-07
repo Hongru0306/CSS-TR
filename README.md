@@ -32,7 +32,7 @@ python val.py
 ```
 
 ## Citation
-If our repo help your work, please cite:
+If our repo helps your work, please cite:
 ```
 @article{XIAO2025106330,
 title = {Automated detection of complex construction scenes using a lightweight transformer-based method},
