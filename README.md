@@ -31,6 +31,21 @@ python train.py
 python val.py
 ```
 
-## Note
-ALL relevent source will be released after acceptance.  
+## Citation
+If our repo help your work, please cite:
+```
+@article{XIAO2025106330,
+title = {Automated detection of complex construction scenes using a lightweight transformer-based method},
+journal = {Automation in Construction},
+volume = {177},
+pages = {106330},
+year = {2025},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2025.106330},
+url = {https://www.sciencedirect.com/science/article/pii/S092658052500370X},
+author = {Hongru Xiao and Bin Yang and Yujie Lu and Wenshuo Chen and Songning Lai and Biaoli Gao},
+keywords = {Transformer-based object detection, Complex construction scenes, Scale-isolate fusion attention, Instructive contrastive learning}
+}
+```
+  
 If you have any questions, please feel free to contact me at 'hongru_xiao@tongji.edu.cn'.
